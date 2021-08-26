@@ -1,0 +1,115 @@
+.skills-container{
+    width: 100%;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.skills-text{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+#paperclip-icon{
+    display: inline-block;
+    width: 2.5rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+.h1-text-skill-technologies{
+    font-weight: 500;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+    margin-bottom: 1rem;
+}
+
+.paragraph-text{
+    font-size: 1rem;
+    line-height: 1.5rem;
+    line-height: 1.625;
+    margin-left: auto;
+    margin-right: auto;
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
+.skills-data{
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* margin-left: -0.5rem;
+    margin-right: -0.5rem; */
+    /* align-items: center; */
+}
+
+.actual-skill-text{
+    /* padding: 0.5rem; */
+    width: 100%;
+    display: inline-flex;
+}
+
+.skill-and-icon{
+    /* --tw-bg-opacity: 1;
+    background-color: rgba(31, 41, 55, var(--tw-bg-opacity)); */
+    /* border-radius: 0.25rem; */
+    /* display: flex; */
+    padding: 1rem;
+    height: 100%;
+    /* align-items: center; */
+}
+
+#badge-icon{
+    --tw-text-opacity: 1;
+    color: rgba(96, 165, 250, var(--tw-text-opacity));
+    width: 1.5rem;
+    height: 1.5rem;
+    flex-shrink: 0;
+    margin-right: 0.1rem;
+}
+
+.skills-side-by-side{
+    font-weight: 500;
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+
+
+@media (min-width: 640px) {
+    .h1-text-skill-technologies{
+        font-size: 2.25rem;
+        line-height: 2.5rem
+    }
+
+    .skills-data{
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0.5rem;
+    }
+
+    .actual-skill-text{
+        width: 50%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .paragraph-text{
+        width: 75;
+    }
+
+    .skills-data{
+        width: 80%;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    .paragraph-text{
+        width: 50%;
+    }
+}
