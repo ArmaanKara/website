@@ -51,7 +51,7 @@ export default function Contact() {
               <h2 className="contact-h2-email">
                 EMAIL
               </h2>
-              <a className="contact-myemail-text">
+              <a href="mailto:vancouverarmaan@gmail.com"className="contact-myemail-text">
                 vancouverarmaan@gmail.com
               </a>
               <h2 className="contact-h2-phone">
