@@ -121,8 +121,12 @@ i {
     line-height: 1.625;
 }
 
-
-@media (min-width: 640px) {
+@media (max-width: 875px) {
+    .projects-gallery{
+        flex-wrap: wrap;
+    }
+}
+@media (min-width: 876px) {
     .stuff-ive-built-header{
         font-size: 2.25rem;
         line-height: 2.5rem;
@@ -134,11 +138,17 @@ i {
     .project-links{
         width: 50%;
     }
+    /* .projects-gallery{
+        flex-wrap: wrap;
+    } */
 }
-/* @media (min-width: 1024px) {
-    .projects-container{
+@media (min-width: 1024px) {
+    /* .projects-container{
         padding-left: 10rem;
         padding-right: 10rem;
-    }
+    } */
 
-} */
+
+
+
+}

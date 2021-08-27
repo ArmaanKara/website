@@ -7,17 +7,19 @@ export default function About() {
             <div className="about-container">
               <div className="about-menu">
                 <h1 className="introduction-text">
-                    Hi, I'm Armaan
-                    <br className="introduction-text1" />I love to build things with software.
+                    Hi, I'm Armaan.
+                    <br className="introduction-text1" />
+                    I love to build things with software.
                 </h1>
+                <br/>
                 <p className="description-text">
-                    Hello My name is Armaan and I am a self-taught developer
+                   I am a self-taught developer and recent graduate from the University of British Columbia.
                 </p>
                 <div className="about-buttons">
                     <a 
                       href="#contact"
                       className="about-button-work-with">
-                      Work With me
+                      Work With Me
                     </a>
                     <a href="#projects" className="about-button-past-work">
                         See My Past Work

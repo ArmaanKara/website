@@ -3,7 +3,7 @@ import React from 'react';
 import { projects } from "../data";
 import './Projects.css';
 
-export default function Porjects() {
+export default function Projects() {
     return (
         <section id="projects" className="projects-section">
             <div className="projects-container">
