@@ -126,6 +126,7 @@
 
 .card-flipped-project1-description{
     line-height: 1.625;
+    color:lightseagreen;
 }
 
 @media (max-width: 875px) {

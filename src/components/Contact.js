@@ -1,5 +1,4 @@
 import React from 'react';
-import { email } from "../data";
 import './Contact.css'; 
 
 export default function Contact(){
@@ -17,7 +16,7 @@ export default function Contact(){
         Whether you may have a question, want to connect, or even just want to say hello, my inbox
         is always open and I will get back to you as soon as I can! Thank you.
       </p>
-      <a className="email-link" href={`mailto:${email}`}>
+      <a className="email-link" href="mailto:vancouverarmaan@gmail.com">
         Contact Me
       </a>
     </div>
