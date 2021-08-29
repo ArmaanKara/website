@@ -20,7 +20,7 @@ export default function Skills(){
                     {skills.map((skill) => (
                         <div key={skill} className="actual-skill-text">
                             <div className="skill-and-icon">
-                                <i className="far fa-id-badge" id="badge-icon" />
+                                <i className="fas fa-caret-right" id="badge-icon" />
                                 <span className="skills-side-by-side">
                                     {skill}
                                 </span>
