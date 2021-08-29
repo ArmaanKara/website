@@ -49,3 +49,7 @@ export const skills = [
   "Python",
   "SQL",
 ];
+
+export const email ={
+  email: "vancouverarmaan@gmail.com"
+}

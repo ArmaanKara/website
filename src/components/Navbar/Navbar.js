@@ -33,7 +33,7 @@ class Navbar extends Component {
                     })}
                 </ul>
                 <Button>
-                    Hire Me 
+                    Resume 
                     {/* <i className="far fa-arrow-alt-circle-right" id="arrow-right"></i> */}
                 </Button>
             </nav>

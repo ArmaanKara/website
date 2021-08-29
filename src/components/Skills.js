@@ -8,7 +8,7 @@ export default function Skills(){
         <section id="skills">
             <div className="skills-container">
                 <div className="skills-text">
-                    <i class="fas fa-paperclip" id="paperclip-icon" />
+                    <i class="fas fa-toolbox" id="toolbox-icon" />
                     <h1 className="h1-text-skill-technologies">
                         Skills & Technologies
                     </h1>
