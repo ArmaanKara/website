@@ -1,6 +1,7 @@
 import React from 'react';
 import { email } from "../data";
 import './Contact.css'; 
+
 export default function Contact(){
   return (
     <div className="contact-container" id="contact">
