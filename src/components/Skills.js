@@ -13,7 +13,7 @@ export default function Skills(){
                         Skills & Technologies
                     </h1>
                     <p className="paragraph-text">
-                        These are the skills I Know and are ordered from most time spent with to least time spent with.
+                        Here are my most used languages, libraries, and technologies to date.
                     </p>
                 </div>
                 <div className="skills-data">

@@ -13,7 +13,7 @@ export default function About() {
                 </h1>
                 <br/>
                 <p className="description-text">
-                   I am a self-taught developer and recent graduate from the University of British Columbia.
+                   I am a self-taught developer and built this webiste to showcase my skills!
                 </p>
                 <div className="about-buttons">
                     <a 
@@ -27,7 +27,7 @@ export default function About() {
                 </div>
             </div>
             <div className="image-on-right-side-about-section">
-                <img className="cartoon-image" alt="hero" src="./avento.gif" id="imageofmyself" />
+                <img className="cartoon-image" alt="hero" src="./media/avento.gif" id="imageofmyself" />
             </div>
             </div>
             

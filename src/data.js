@@ -1,35 +1,26 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    title: "Rate My Residence",
+    subtitle: "React.js",
+    description: "Currently working on a campus-wide residence ranking web app for the University of British Columbia.",
+    image: "./media/rmr.gif",
+    link: "https://github.com/ArmaanKara/RateMyRes_RMR",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Humans vs AI in Rock, Paper, Scissors.",
+    subtitle: "HTML, CSS and Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reedbarger.com",
+      "Built an interactive Rock Paper Scissors static webpage",
+    image: "./media/rps.gif",
+    link: "https://github.com/ArmaanKara/RockPaperScissors",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Portfolio Optimization Tool",
+    subtitle: "Python and Jupyter Notebooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "Imported data from Yahoo Finance to analyze and then create a portfolio of four stocks to invest in based on their risk and past performance. ",
+    image: "./media/portfoliooptimizationgithub.gif",
     link: "https://jsbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
   },
 ];
 
@@ -51,10 +42,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "JavaScript (ES6+)",
+  "React.js",
+  "HTML",
+  "CSS",
+  "Python",
+  "SQL",
 ];

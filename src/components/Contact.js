@@ -25,6 +25,8 @@ export default function Contact() {
   return (
     <section id="contact" className="relative">
       <div className="contact-container">
+        <h4>What's Next?</h4>
+        <h1>Get In Touch</h1>
         <div className="contact-iframe-container">
           <iframe
             width="100%"

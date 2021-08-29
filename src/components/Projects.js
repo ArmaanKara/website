@@ -8,13 +8,15 @@ export default function Projects() {
         <section id="projects" className="projects-section">
             <div className="projects-container">
                 <div className="code-icon">
-                    <i className="fas fa-laptop-code "/>
+                    <i className="fas fa-laptop-code"/>
                     <h1 className="stuff-ive-built-header">
-                        Things I've Built
+                       Things I Build 
                     </h1>
-                    <p className="projects-description">
-                        This is a project I built with my own two hands
-                    </p>
+                    <h4 className="projects-description">
+                        These projects below are some things I am currently wokring on.
+                        <br/> If you would like to see more please check out my 
+                        <a href="https://github.com/ArmaanKara"><i className="fab fa-github-square" id="github-square"></i></a>
+                    </h4>
                 </div>
                 <div className="projects-gallery">
                     {projects.map((project) => (
