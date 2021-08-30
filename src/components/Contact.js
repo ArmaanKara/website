@@ -12,7 +12,7 @@ export default function Contact(){
         Get In Touch
       </h2>
       <p className="contact-looking-for-work">
-        I am currently looking for work and am open to any new oppprotunites.
+        I am <b>currently looking for work</b> and am <b>open</b> to any new opportunities.
         Whether you may have a question, want to connect, or even just want to say hello, my inbox
         is always open and I will get back to you as soon as I can! Thank you.
       </p>

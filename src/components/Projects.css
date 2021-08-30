@@ -129,9 +129,21 @@
     color:lightseagreen;
 }
 
+
 @media (max-width: 875px) {
+    .projects-description{
+        margin-right: 2.5rem;
+    }
     .projects-gallery{
         flex-wrap: wrap;
+        margin-right: 1.3rem;
+        margin-left: -1rem;
+    }
+    .stuff-ive-built-header{
+        margin-right: 2.0rem;
+    }
+    .fa-laptop-code{
+       padding-right: 1rem;
     }
 }
 @media (min-width: 876px) {
