@@ -21,7 +21,7 @@ export const MenuItems = [
     },
     {
         title: 'Resume',
-        url: '#hireme',
+        url: "./media/redditclone-nm.gif",
         cName: 'nav-links-mobile'
     },
 ]
