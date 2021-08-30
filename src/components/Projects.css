@@ -129,18 +129,32 @@
     color:lightseagreen;
 }
 
-@media screen and (max-width: 410px){
+@media screen and (max-width: 800px){
     .projects-description{
         align-items: center;
         text-align: center;
         font-size: small;
         flex-direction: column;
         display: flex;
-        margin-right: 2.2rem;
+        padding-right: 1.5rem;
+    }
+    .projects-gallery{
+        flex-wrap: wrap;
+        margin-right: 1.3rem;
+        margin-left: -1rem;
+    }
+    .stuff-ive-built-header{
+        margin-right: 2.0rem;
+    }
+    .fa-laptop-code{
+       padding-right: 1rem;
+    }
+    #github-square{
+        font-size: 2.2rem;
     }
 }
 
-
+/* 
 @media screen and (max-width: 769px) {
     .projects-description{
         align-items: center;
@@ -161,7 +175,7 @@
        padding-right: 1rem;
     }
 
-}
+} */
 @media (min-width: 876px) {
     .stuff-ive-built-header{
         font-size: 2.25rem;
