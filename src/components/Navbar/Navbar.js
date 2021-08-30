@@ -11,6 +11,8 @@ class Navbar extends Component {
     }
 
 
+
+
     render(){
         return(
             <nav className="NavbarItems">
@@ -32,8 +34,10 @@ class Navbar extends Component {
                         )
                     })}
                 </ul>
-                <Button>
-                    Resume 
+                <Button className="resume-button">
+                <a className="resume-button" href="./media/redditclone-nm.gif" target="_blank" rel="noopener noreferrer">
+                    Resume
+                </a>
                     {/* <i className="far fa-arrow-alt-circle-right" id="arrow-right"></i> */}
                 </Button>
             </nav>

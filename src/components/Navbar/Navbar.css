@@ -40,9 +40,13 @@
 }
 
 .nav-links:hover{
-    color: #25c5f2;;
+    color: #25c5f2;
     border-radius: 4px;
     transition: all 0.2s ease-out;
+}
+
+.resume-button:hover{
+    color: #25c5f2;
 }
 
 .fa-bars{
