@@ -10,10 +10,9 @@ export default function Projects() {
                 <div className="code-icon">
                     <i className="fas fa-laptop-code"/>
                     <h1 className="stuff-ive-built-header">
-                       Things I Build 
+                       Things I've built 
                     </h1>
                     <h4 className="projects-description">
-                        These projects below are some things I am currently wokring on.
                         <br/> If you would like to see more please check out my 
                         <a href="https://github.com/ArmaanKara"><i className="fab fa-github-square" id="github-square"></i></a>
                     </h4>
