@@ -10,7 +10,7 @@ export default function Projects() {
                 <div className="code-icon">
                     <i className="fas fa-laptop-code"/>
                     <h1 className="stuff-ive-built-header">
-                       Things I've built 
+                       Things I've Built 
                     </h1>
                     <h4 className="projects-description">
                         If you would like to see more please check out my 
