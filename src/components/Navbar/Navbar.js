@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+ import React, { Component } from 'react';
 import './Navbar.css'
 import { MenuItems } from './MenuItems';
 import { Button } from '../Button';
