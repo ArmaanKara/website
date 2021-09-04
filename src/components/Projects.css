@@ -193,11 +193,16 @@
         flex-wrap: wrap;
     } */
 }
-@media (min-width: 1024px) {
+@media (min-width: 1500px) {
     /* .projects-container{
         padding-left: 10rem;
         padding-right: 10rem;
     } */
+    .projects-gallery{
+        flex-direction: row;
+        width: 100%;
+    }
+
 
 
 
