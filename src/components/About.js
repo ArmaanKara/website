@@ -13,7 +13,7 @@ export default function About() {
                 </h1>
                 <br/>
                 <p className="description-text">
-                   I am a self-taught software engineer that currently specialzies in the building clean front-end user experiences. I built this website to showcase some of my skills!
+                   I am a self-taught software engineer that currently specialzies in building clean front-end user experiences. I built this website to showcase some of my skills!
                 </p>
                 <div className="about-buttons">
                     <a 

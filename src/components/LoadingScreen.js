@@ -6,7 +6,7 @@ const LoadingScreen = () => {
     return(
         <div className="container">
             <div class="typewriter">
-                <h1>Hello, welcome to my website!</h1>
+                <h1>Hello, welcome to my website...</h1>
     
             </div>
         </div>
