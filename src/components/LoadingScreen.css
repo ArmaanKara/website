@@ -1,8 +1,13 @@
+ body{
+   animation: transitionIn 0.75s;
+ }
  .container{
     padding-top: 10rem;
     display: flex;
     justify-content: center;
   }
+
+
   
   /* DEMO-SPECIFIC STYLES */
   .typewriter h1 {
