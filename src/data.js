@@ -43,9 +43,11 @@ export const projects = [
 
 export const skills = [
   "JavaScript (ES6+)",
-  "React.js",
-  "HTML",
-  "CSS",
+  "React",
   "Python",
-  "SQL",
+  "Node.js",
+  "HTML/CSS",
+  "MongoDB",
+  "Heroku",
+  "Netlify",
 ];
