@@ -95,7 +95,7 @@
     .nav-menu{
         display: flex;
         flex-direction: column;
-        width: 99vw;
+        width: 110vw;
         height: 500px;
         position: absolute;
         top: 61px;
@@ -106,7 +106,7 @@
 
     .nav-menu.active{
         background-color: #fff;
-        left: -5.6%;
+        left: -7.7%;
         opacity: 1;
         transition: all 0.5s ease;
         z-index: 1;
@@ -171,5 +171,28 @@
 
     Button{
         display: none;
+    }
+}
+
+@media screen and (max-width: 556px){
+    .nav-menu.active{
+        background-color: #fff;
+        left: -10.7%;
+        opacity: 1;
+        transition: all 0.5s ease;
+        z-index: 1;
+
+    }
+
+    .nav-menu{
+        display: flex;
+        flex-direction: column;
+        width: 110vw;
+        height: 500px;
+        position: absolute;
+        top: 61px;
+        left: -100%;
+        opacity: 1;
+        transition: all 0.5s ease;
     }
 }

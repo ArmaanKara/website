@@ -21,7 +21,7 @@ export const MenuItems = [
     },
     {
         title: 'Resume',
-        url: "./media/redditclone-nm.gif",
+        url: "https://www.armaankara.com/media/armaankara_resume.pdf",
         cName: 'nav-links-mobile'
     },
 ]
