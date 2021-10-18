@@ -47,6 +47,7 @@
     line-height: 1.625;
     font-size: 1rem;
     line-height: 1.5rem;
+    
 }
 #github-square{
     margin-left: 0.5rem;
@@ -59,7 +60,7 @@
     display: flex;
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
-    margin: 2rem;
+    
 }
 
 .project-links{

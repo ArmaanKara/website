@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React.js",
     description: "Currently working on a campus-wide residence ranking web app for the University of British Columbia.",
     image: "./media/rmr.gif",
-    link: "https://github.com/ArmaanKara/RateMyRes_RMR",
+    link: "https://happy-curie-7161ee.netlify.app",
   },
   {
     title: "Humans vs AI in Rock, Paper, Scissors.",
