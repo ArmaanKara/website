@@ -7,12 +7,12 @@ export const projects = [
     link: "https://happy-curie-7161ee.netlify.app",
   },
   {
-    title: "Humans vs AI in Rock, Paper, Scissors.",
-    subtitle: "HTML, CSS and Javascript",
+    title: "Resonance Consulting",
+    subtitle: "HTML, CSS and React",
     description:
-      "Built an interactive Rock Paper Scissors static webpage",
-    image: "./media/rps2.gif",
-    link: "https://github.com/ArmaanKara/RockPaperScissors",
+      "Currently designing and building a custom React website for the consutling firm Resonance. The website is hosted on Netlify",
+    image: "./media/resonance.gif",
+    link: "https://www.resonance-co.com/#/",
   },
   {
     title: "Portfolio Optimization Tool",
