@@ -87,7 +87,9 @@
     outline-offset: 2px;
 }
 .about-button-past-work:hover{
-    color: white;
+    color: #fff;
+    background-color: #003140;
+    outline: 2px solid
 }
 
 .image-on-right-side-about-section{
