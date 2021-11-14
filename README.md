@@ -12,74 +12,38 @@
 </p>
 <br/>
 <p align="center">
-  <a href=https://app.netlify.com/sites/armaankara/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Success Status" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![Alt text](public\media\websiteScreenshot.png "Armaan Kara Website Screenshot")
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+A few people have reached out to me asking me if they can use this code for their own personal website, and the answer to that question is absolutely **yes, but please give credit**.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+I made with project a public repo so that others can use and build off of it to become bettwe developers/engineers. All I ask of you all is to not claim this effort as your own and give credit where credit is due.
 
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
+If you have any questions feel free to message me but also refer to the react docs <a href="https://reactjs.org">here</a> for more information about React specific concerns.
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [armaankara.com](https://armaankara.com). Thanks!
 
-## 🛠 Installation & Set Up
+## How to clone and view this project:
 
-1. Install the Gatsby CLI
+1. Open your terminal and then type
+    ```
+    $ git clone {https://github.com/ArmaanKara/website.git}
+2. cd into the new folder and type
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+    ```
+    $ npm install
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+    This will install the required dependencies
+3. To Run the React project and then when you make changes see those changes live in your browser run
 
-   ```sh
-   nvm install
-   ```
+    ``` $ npm start
 
-3. Install dependencies
 
-   ```sh
-   yarn
-   ```
-
-4. Start the development server
-
-   ```sh
-   npm start
-   ```
-
-## 🚀 Building and Running for Production
-
-1. Generate a full static production build
-
-   ```sh
-   npm run build
-   ```
-
-1. Preview the site as it will appear once deployed
-
-   ```sh
-   npm run serve
-   ```
-
-## 🎨 Color Reference
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
-| Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
+Note: To deploy your own website to Netlify please use the <a herf="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/"> docs </a> here and you can also buy a domain name thorugh netlify if you want.
