@@ -11,7 +11,7 @@
   Built with <a href="https://www.reactjs.org/" target="_blank">React</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <br/>
-<p align="center">
+<p align="center">ad
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Success Status" />
   </a>
 </p>
@@ -34,16 +34,20 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ar
 
 1. Open your terminal and then type
     ```
-    $ git clone {https://github.com/ArmaanKara/website.git}
+    $ git clone https://github.com/ArmaanKara/website.git
+    ```
 2. cd into the new folder and type
 
     ```
     $ npm install
-
+    ```
     This will install the required dependencies
+    
 3. To Run the React project and then when you make changes see those changes live in your browser run
 
-    ``` $ npm start
+    ``` 
+    $ npm start
+    ```
 
 
 Note: To deploy your own website to Netlify please use the <a herf="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/"> docs </a> here and you can also buy a domain name thorugh netlify if you want.
