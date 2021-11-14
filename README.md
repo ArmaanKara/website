@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="public\media\logo.png" width="100" />
+  <img alt="Logo" src="./public/media/logo.png" width="100" />
 </div>
 <h1 align="center">
   <a href="https://armaankara.com" target="_blank">armaankara.com</a>
@@ -11,12 +11,12 @@
   Built with <a href="https://www.reactjs.org/" target="_blank">React</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <br/>
-<p align="center">ad
+<p align="center">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Success Status" />
   </a>
 </p>
 
-![Alt text](public\media\websiteScreenshot.png "Armaan Kara Website Screenshot")
+![Alt text](websiteScreenshot.png "Armaan Kara Website Screenshot")
 
 ## 🚨 Forking this repo (please read!)
 
