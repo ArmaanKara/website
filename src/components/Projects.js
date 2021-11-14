@@ -13,7 +13,7 @@ export default function Projects() {
                        Things I've Built 
                     </h1>
                     <h4 className="projects-description">
-                        If you would like to see more please check out my 
+                        For more interesting projects check out my Github  
                         <a href="https://github.com/ArmaanKara"><i className="fab fa-github-square" id="github-square"></i></a>
                     </h4>
                 </div>
