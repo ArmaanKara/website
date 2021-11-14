@@ -18,7 +18,7 @@
 
 ![Alt text](websiteScreenshot.png "Armaan Kara Website Screenshot")
 
-## 🚨 Forking this repo (please read!)
+## Forking this repo
 
 A few people have reached out to me asking me if they can use this code for their own personal website, and the answer to that question is absolutely **yes, but please give credit**.
 
