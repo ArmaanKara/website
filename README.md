@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="public\media\logo.png" width="100" />
 </div>
 <h1 align="center">
   <a href="https://armaankara.com" target="_blank">armaankara.com</a>
@@ -42,7 +42,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ar
     $ npm install
     ```
     This will install the required dependencies
-    
+
 3. To Run the React project and then when you make changes see those changes live in your browser run
 
     ``` 
