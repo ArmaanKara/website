@@ -77,6 +77,23 @@
         typing 4s steps(40, end),
         blink-caret .5s step-end infinite;
     }
-    
-    
-  }
+}
+@media (max-width: 767px){
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    .typewriter h1 {
+      color: #fff;
+      font-family: monospace;
+      overflow: hidden; /* Ensures the content is not revealed until the animation */
+      border-right: .15em solid orange; /* The typwriter cursor */
+      white-space:nowrap; /* Keeps the content on a single line */
+      letter-spacing: .15em; /* Adjust as needed */
+      font-size: 1.35rem;
+      margin: 5rem auto;
+      animation: 
+        typing 4s steps(40, end),
+        blink-caret .5s step-end infinite;
+    }
+}

@@ -34,10 +34,10 @@ export const projects2 = [
   },
   {
     title: "FullStack Grocery List App",
-    subtitle: "React, Node, Express & MongoDB (MERN)",
-    description: "Built a fully functional CRUD app with the MERN stack so that you can be better prepared the next time you go grocery shopping. I always find myself forgetting to but certain items because I don't make a list. Now I will never forget an item thanks to my handy grocery shopping list webapp!",
-    image: "",
-    link: "",
+    subtitle: "React, Node, Express & MongoDB Atlas (MERN)",
+    description: "Built a fully functional CRUD app with the MERN stack so that you can be better prepared the next time you go grocery shopping. I always find myself forgetting to but certain items because I don't make a list. Now I will never forget an item thanks to my handy grocery shopping list webapp! Currently working to deploy it to Heroku",
+    image: "./media/grocery.gif",
+    link: "https://github.com/ArmaanKara/GroceryListWebApp",
   },
   {
     title: "AI vs Human Tic Tac Toe",
