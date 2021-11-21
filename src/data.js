@@ -71,7 +71,7 @@ export const skills = [
   "React",
   "Python",
   "Node.js",
-  "HTML/CSS",
+  "HTML5/CSS3",
   "MongoDB",
   "Heroku",
   "Netlify",
