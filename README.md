@@ -1,5 +1,6 @@
 <div align="center">
-  <img alt="Logo" src="./public/media/logo.png" width="100" />
+  <img alt="Logo" src="./public/media/logo.jpg
+  " width="100" />
 </div>
 <h1 align="center">
   <a href="https://armaankara.com" target="_blank">armaankara.com</a>
@@ -16,7 +17,7 @@
   </a>
 </p>
 
-![Alt text](websiteScreenshot.png "Armaan Kara Website Screenshot")
+![Alt text](websiteScreenshot.png 'Armaan Kara Website Screenshot')
 
 ## Forking this repo
 
@@ -33,21 +34,21 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ar
 ## How to clone and view this project:
 
 1. Open your terminal and then type
-    ```
-    $ git clone https://github.com/ArmaanKara/website.git
-    ```
+   ```
+   $ git clone https://github.com/ArmaanKara/website.git
+   ```
 2. cd into the new folder and type
 
-    ```
-    $ npm install
-    ```
-    This will install the required dependencies
+   ```
+   $ npm install
+   ```
+
+   This will install the required dependencies
 
 3. To Run the React project and then when you make changes see those changes live in your browser run
 
-    ``` 
-    $ npm start
-    ```
-
+   ```
+   $ npm start
+   ```
 
 Note: To deploy your own website to Netlify please use the <a herf="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/"> docs </a> here and you can also buy a domain name thorugh netlify if you want.
