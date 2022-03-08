@@ -13,7 +13,7 @@ export default function About() {
           </h1>
           <br />
           <div className='description-text'>
-            I am a software engineer that currently specialzies in building
+            I am a software engineer that currently specializes in building
             clean front-end user experiences. I built this website to showcase
             some of my skills!
           </div>
