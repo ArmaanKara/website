@@ -17,7 +17,7 @@ export default function Contact() {
             back to you as soon as I can! Thank you.
           </p>
           <div>
-            <a className='email-link' href='mailto:vancouverarmaan@gmail.com'>
+            <a className='email-link' href='mailto:akara.swe@gmail.com'>
               Contact Me
             </a>
             <div className='font-awesome-socials'>
@@ -27,7 +27,7 @@ export default function Contact() {
               <a href='https://github.com/ArmaanKara'>
                 <i className='fab fa-github' id='github'></i>
               </a>
-              <a href='https://medium.com/@vancouverarmaan'>
+              <a href='https://medium.com/@armaankara'>
                 <i id='medium' className='fab fa-medium-m'></i>
               </a>
             </div>
