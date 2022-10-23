@@ -10,7 +10,7 @@ export default function Skills(){
             <div className="skills-container">
                 <Fade right>
                 <div className="skills-text">
-                    <i class="fas fa-toolbox" id="toolbox-icon" />
+                    <i className="fas fa-toolbox" id="toolbox-icon" />
                     <h1 className="h1-text-skill-technologies">
                         Skills & Technologies
                     </h1>
