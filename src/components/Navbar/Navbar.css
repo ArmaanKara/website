@@ -44,9 +44,19 @@
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }
+.resume-button{
+  margin-left: -1rem;
+  padding: 8px 24px;
+  border-radius: 5px;
+  color: #fff; 
+  background-color: #003140;
 
+}
 .resume-button:hover {
-  color: #25c5f2;
+  transition: all 0.3s ease-out;
+  color: #003140; 
+  background-color: #fff;
+  transition: 250ms;
 }
 
 .fa-bars {
@@ -73,7 +83,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 867px) {
   .NavbarItems {
     position: relative;
   }
@@ -166,6 +176,9 @@
   }
 
   Button {
+    display: none;
+  }
+  .resume-button{
     display: none;
   }
 }

@@ -122,6 +122,16 @@
     .actual-skill-text{
         width: 50%;
     }
+    .skill-and-icon{
+        /* --tw-bg-opacity: 1;
+        background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+        border-radius: 0.25rem; */
+        /* display: flex; */
+        padding: 1rem;
+        height: 25%;
+        width: 39%;
+        align-items: center;
+    }
 }
 
 @media (min-width: 1024px) {
@@ -131,6 +141,16 @@
 
     .skills-data{
         width: 80%;
+    }
+    .skill-and-icon{
+        /* --tw-bg-opacity: 1;
+        background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+        border-radius: 0.25rem; */
+        /* display: flex; */
+        padding: 1rem;
+        height: 25%;
+        width: 30%;
+        align-items: center;
     }
 }
 

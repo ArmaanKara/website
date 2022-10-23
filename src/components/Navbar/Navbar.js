@@ -1,7 +1,6 @@
  import React, {useEffect, useState } from 'react';
 import './Navbar.css'
 import { MenuItems } from './MenuItems';
-import { Button } from '../Button';
 
 const Navbar = () =>{
     const [clicked, setClicked] = useState(false)
@@ -32,12 +31,9 @@ const Navbar = () =>{
                     )
                 })}
             </ul>
-            <Button className="resume-button">
-            <a className="resume-button" href="./media/armaankara_resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a className='resume-button' href="./media/armaankara_resume.pdf" target="_blank" rel="noopener noreferrer">
                 Resume
             </a>
-                {/* <i className="far fa-arrow-alt-circle-right" id="arrow-right"></i> */}
-            </Button>
         </nav>
     )
 }
